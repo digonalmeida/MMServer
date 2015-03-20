@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1426882285 source:/home/rodrigo/dev/teste/MMServer/main.cpp
+	<iostream>
+	<thread>
+	<string>
+	<list>
+	<map>
+	<chrono>
+	"MMServer.h"
+
+1426882238 /home/rodrigo/dev/teste/MMServer/MMServer.h
+	<iostream>
+	<thread>
+	<chrono>
+	<list>
+	<string>
+
+1426883375 source:/home/rodrigo/dev/teste/MMServer/MMServer.cpp
+	"MMServer.h"
+
